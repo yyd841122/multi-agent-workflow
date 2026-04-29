@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir docs:*)",
+      "Bash(mkdir reports/dev reports/test reports/fix .claude/agents)",
+      "Bash(start:*)",
+      "Bash(git init:*)",
+      "Bash(git remote:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
